@@ -1,2 +1,4 @@
 # ing-java-algorithm-study
-Java algorithm study project(ing)
+## This project is java algorithm study project
+
+1. Initializing project finished.
