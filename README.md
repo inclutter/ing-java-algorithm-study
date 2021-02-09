@@ -3,6 +3,6 @@
 
 1. Initializing project finished.
 2. main_chapter1 ~ 11 branches have been added
-3. The making products of main_chapter1 branch
+3. The making products of main_chapter1 branch(You can see that products in main_chapter branch)
    1. Java files of chapter1 have been added
 
